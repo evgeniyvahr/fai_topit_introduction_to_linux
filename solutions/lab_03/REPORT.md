@@ -43,7 +43,7 @@ key fingerprint is SHA256:9X/hGn/PWm1+cPqWZuQA/NL3KhsKRMonQus7vAp1g3I
 <img width="571" height="172" alt="image" src="https://github.com/user-attachments/assets/b893bf5f-524d-4232-afb2-9b8a91c4334e" />
 
 ## Задание 4
-<img width="659" height="58" alt="image" src="https://github.com/user-attachments/assets/beca196a-6dca-4e58-92f0-9a700b38b256" />
+<img width="626" height="74" alt="image" src="https://github.com/user-attachments/assets/46b69424-55a9-4394-b640-70fc5f0402b6" />
 
 ## Задание 5
 <img width="477" height="126" alt="image" src="https://github.com/user-attachments/assets/03a68e79-9f4c-49db-8845-a811564e65df" />
